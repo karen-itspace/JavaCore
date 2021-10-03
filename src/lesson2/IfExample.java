@@ -7,5 +7,7 @@ public class IfExample {
             System.out.println("hello");
         }
 
+        System.out.println("after if block");
+
     }
 }
